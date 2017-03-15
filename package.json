@@ -1,0 +1,8 @@
+{
+  "name": "fromscratch",
+  "version": "0.1.0",
+  "devDependencies": {
+    "express": "*",
+    "load-grunt-tasks": "~0.2.0"
+  }
+}
